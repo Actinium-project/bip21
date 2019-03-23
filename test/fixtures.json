@@ -1,66 +1,66 @@
 {
   "valid": [
     {
-      "address": "1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH",
-      "uri": "bitcoin:1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH"
+      "address": "PEwr8xxbULYLzNggPMQ1fT5RD8irnEZ9gS",
+      "uri": "actinium:PEwr8xxbULYLzNggPMQ1fT5RD8irnEZ9gS"
     },
     {
-      "address": "1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH",
-      "uri": "bitcoin:1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH?",
+      "address": "PEwr8xxbULYLzNggPMQ1fT5RD8irnEZ9gS",
+      "uri": "actinium:PEwr8xxbULYLzNggPMQ1fT5RD8irnEZ9gS?",
       "compliant": false
     },
     {
-      "address": "1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH",
-      "uri": "bitcoin://1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH",
+      "address": "PEwr8xxbULYLzNggPMQ1fT5RD8irnEZ9gS",
+      "uri": "actinium://PEwr8xxbULYLzNggPMQ1fT5RD8irnEZ9gS",
       "compliant": false
     },
     {
-      "address": "1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH",
-      "uri": "bitcoin:1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH?label=Luke-Jr",
+      "address": "PEwr8xxbULYLzNggPMQ1fT5RD8irnEZ9gS",
+      "uri": "actinium:PEwr8xxbULYLzNggPMQ1fT5RD8irnEZ9gS?label=Luke-Jr",
       "options": {
         "label": "Luke-Jr"
       }
     },
     {
-      "address": "1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH",
-      "uri": "bitcoin:1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH?amount=0",
+      "address": "PEwr8xxbULYLzNggPMQ1fT5RD8irnEZ9gS",
+      "uri": "actinium:PEwr8xxbULYLzNggPMQ1fT5RD8irnEZ9gS?amount=0",
       "options": {
         "amount": 0
       }
     },
     {
-      "address": "1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH",
-      "uri": "bitcoin://1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH?amount=0",
+      "address": "PEwr8xxbULYLzNggPMQ1fT5RD8irnEZ9gS",
+      "uri": "actinium://PEwr8xxbULYLzNggPMQ1fT5RD8irnEZ9gS?amount=0",
       "compliant": false,
       "options": {
         "amount": 0
       }
     },
     {
-      "address": "1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH",
-      "uri": "bitcoin:1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH?amount=1",
+      "address": "PEwr8xxbULYLzNggPMQ1fT5RD8irnEZ9gS",
+      "uri": "actinium:PEwr8xxbULYLzNggPMQ1fT5RD8irnEZ9gS?amount=1",
       "options": {
         "amount": 1
       }
     },
     {
-      "address": "1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH",
-      "uri": "bitcoin:1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH?amount=1.00",
+      "address": "PEwr8xxbULYLzNggPMQ1fT5RD8irnEZ9gS",
+      "uri": "actinium:PEwr8xxbULYLzNggPMQ1fT5RD8irnEZ9gS?amount=1.00",
       "options": {
         "amount": "1.00"
       }
     },
     {
-      "address": "1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH",
-      "uri": "bitcoin:1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH?amount=20.3&label=Luke-Jr",
+      "address": "PEwr8xxbULYLzNggPMQ1fT5RD8irnEZ9gS",
+      "uri": "actinium:PEwr8xxbULYLzNggPMQ1fT5RD8irnEZ9gS?amount=20.3&label=Luke-Jr",
       "options": {
         "amount": 20.3,
         "label": "Luke-Jr"
       }
     },
     {
-      "address": "1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH",
-      "uri": "bitcoin:1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH?amount=50&label=Luke-Jr&message=Donation%20for%20project%20xyz",
+      "address": "PEwr8xxbULYLzNggPMQ1fT5RD8irnEZ9gS",
+      "uri": "actinium:PEwr8xxbULYLzNggPMQ1fT5RD8irnEZ9gS?amount=50&label=Luke-Jr&message=Donation%20for%20project%20xyz",
       "options": {
         "amount": 50,
         "label": "Luke-Jr",
@@ -68,24 +68,24 @@
       }
     },
     {
-      "address": "1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH",
-      "uri": "bitcoin:1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH?amount=1&custom=foobar",
+      "address": "PEwr8xxbULYLzNggPMQ1fT5RD8irnEZ9gS",
+      "uri": "actinium:PEwr8xxbULYLzNggPMQ1fT5RD8irnEZ9gS?amount=1&custom=foobar",
       "options": {
         "amount": 1,
         "custom": "foobar"
       }
     },
     {
-      "address": "1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH",
-      "uri": "bitcoin:1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH?amount=0.200000&r=https%3A%2F%2Fbitpay.com%2Fi%2Fxxxxxxxxxxxxxxxxxxxxxx",
+      "address": "PEwr8xxbULYLzNggPMQ1fT5RD8irnEZ9gS",
+      "uri": "actinium:PEwr8xxbULYLzNggPMQ1fT5RD8irnEZ9gS?amount=0.200000&r=https%3A%2F%2Fbitpay.com%2Fi%2Fxxxxxxxxxxxxxxxxxxxxxx",
       "options": {
         "amount": "0.200000",
         "r": "https://bitpay.com/i/xxxxxxxxxxxxxxxxxxxxxx"
       }
     },
     {
-      "address": "1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH",
-      "uri": "bitcoin://1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH?amount=0.200000&r=https%3A%2F%2Fbitpay.com%2Fi%2Fxxxxxxxxxxxxxxxxxxxxxx",
+      "address": "PEwr8xxbULYLzNggPMQ1fT5RD8irnEZ9gS",
+      "uri": "actinium://PEwr8xxbULYLzNggPMQ1fT5RD8irnEZ9gS?amount=0.200000&r=https%3A%2F%2Fbitpay.com%2Fi%2Fxxxxxxxxxxxxxxxxxxxxxx",
       "compliant": false,
       "options": {
         "amount": "0.200000",
@@ -93,8 +93,8 @@
       }
     },
     {
-      "address": "1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH",
-      "uri": "other:1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH",
+      "address": "PEwr8xxbULYLzNggPMQ1fT5RD8irnEZ9gS",
+      "uri": "other:PEwr8xxbULYLzNggPMQ1fT5RD8irnEZ9gS",
       "urnScheme": "other"
     }
   ],
@@ -105,42 +105,42 @@
     },
     {
       "exception": "Invalid amount",
-      "address": "1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH",
-      "uri": "bitcoin:1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH?amount=-1",
+      "address": "PEwr8xxbULYLzNggPMQ1fT5RD8irnEZ9gS",
+      "uri": "actinium:PEwr8xxbULYLzNggPMQ1fT5RD8irnEZ9gS?amount=-1",
       "options": {
         "amount": -1
       }
     },
     {
       "exception": "Invalid amount",
-      "address": "1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH",
+      "address": "PEwr8xxbULYLzNggPMQ1fT5RD8irnEZ9gS",
       "options": {
         "amount": "-1"
       }
     },
     {
       "exception": "Invalid amount",
-      "address": "1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH",
-      "uri": "bitcoin:1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH?amount=-1.00",
+      "address": "PEwr8xxbULYLzNggPMQ1fT5RD8irnEZ9gS",
+      "uri": "actinium:PEwr8xxbULYLzNggPMQ1fT5RD8irnEZ9gS?amount=-1.00",
       "options": {
         "amount": -1.00
       }
     },
     {
       "exception": "Invalid amount",
-      "address": "1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH",
-      "uri": "bitcoin:1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH?amount=two",
+      "address": "PEwr8xxbULYLzNggPMQ1fT5RD8irnEZ9gS",
+      "uri": "actinium:PEwr8xxbULYLzNggPMQ1fT5RD8irnEZ9gS?amount=two",
       "options": {
         "amount": "two"
       }
     },
     {
       "exception": "Invalid amount",
-      "uri": "bitcoin:1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH?amount=NaN"
+      "uri": "actinium:PEwr8xxbULYLzNggPMQ1fT5RD8irnEZ9gS?amount=NaN"
     },
     {
       "exception": "Invalid amount",
-      "uri": "bitcoin:1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH?amount=Infinity"
+      "uri": "actinium:PEwr8xxbULYLzNggPMQ1fT5RD8irnEZ9gS?amount=Infinity"
     }
   ]
 }
